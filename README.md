@@ -1,6 +1,4 @@
-¡Por supuesto! Aquí está el README.md en formato Markdown, listo para que lo uses:
 
-```markdown
 # Hello World App
 
 Esta es una aplicación web simple construida con Node.js, dockerizada y desplegada en Kubernetes usando Helm.
